@@ -1,0 +1,13 @@
+.c-link-cadastrar{
+    background-color: var(--vinho);
+    color: var(--branco);
+    padding: .7em;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.c-link-entrar{
+    color: var(--cinza);
+    padding: .7em;
+    font-size: 1rem;
+}
