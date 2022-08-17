@@ -2,6 +2,7 @@
 @import url("../layout/l-header.css");
 @import url("../state/state.css");
 @import url("../module/c-botoes.css");
+@import url("../layout/l-aboutUs.css");
 
 :root{
     --vinho: #8E2424;

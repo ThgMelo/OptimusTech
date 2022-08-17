@@ -11,3 +11,11 @@
     padding: .7em;
     font-size: 1rem;
 }
+
+.c-link-entrar:hover{
+    color: var(--vinho);
+}
+
+.c-link-cadastrar:hover{
+    background-color: var(--cinza-claro);
+}
