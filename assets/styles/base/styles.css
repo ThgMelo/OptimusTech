@@ -3,6 +3,8 @@
 @import url("../state/state.css");
 @import url("../module/c-botoes.css");
 @import url("../layout/l-aboutUs.css");
+@import url("../layout/l-metricas.css");
+@import url("../layout/l-vagas.css");
 
 :root{
     --vinho: #8E2424;
@@ -11,6 +13,8 @@
     --cinza-claro: #98A2B3;
     --preto: #101828;
     --branco: #fff;
+    --rosa: rgba(142, 36, 36, 0.05);
+    --cor-borda: #EAECF0;
 
     --fonte-principal: 'Inter', sans-serif;
 
