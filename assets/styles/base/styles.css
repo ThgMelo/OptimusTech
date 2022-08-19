@@ -5,6 +5,8 @@
 @import url("../layout/l-aboutUs.css");
 @import url("../layout/l-metricas.css");
 @import url("../layout/l-vagas.css");
+@import url("../layout/l-depoimentos.css");
+@import url("../layout/l-footer.css");
 
 :root{
     --vinho: #8E2424;
